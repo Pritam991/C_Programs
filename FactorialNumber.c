@@ -30,4 +30,4 @@ long factorial(int num)
 
         printf("Factorial of %d = %d", num, factorial(num));                                
         return 0;
-}
+   }
