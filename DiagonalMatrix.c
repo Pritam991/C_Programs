@@ -2,7 +2,7 @@
 void main()
 {
 	int a[3][3],i,j,k,l;
-	printf("Enter the  matrix elements :\n");
+	printf("--------------------Enter the  matrix elements------------------- :\n");
 	for(i=0;i<=2;i++)
 	{
 		for(j=0;j<=2;j++)
@@ -12,7 +12,7 @@ void main()
 	      printf("\n");
 		}
 	}
-	printf("The matrix we have :\n");
+	printf("--------The matrix we have------- :\n");
 	for(i=0;i<=2;i++)
 	{
 		for(j=0;j<=2;j++)
@@ -22,7 +22,7 @@ void main()
 		}
 		printf("\n");
 	}
-	printf("The Diagonal Matrix is :\n");
+	printf("----------The Diagonal Matrix is :-----------\n");
 	for(i=0;i<=2;i++)
 	{
 		for(j=0;j<=2;j++)
